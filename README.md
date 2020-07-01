@@ -18,7 +18,7 @@ The usage is exactly the same as [`jemdoc`](https://jemdoc.jaboc.net/). Refer [t
 
 ## Usage
 
-Assuming you have already install the  `jemdoc+MathJax`
+Assuming you have already install the  `jemdoc+MathJax`, notice that
 
 in `./jemdoc_files/`, we store `.jemdoc` files and `mysite.conf`
 

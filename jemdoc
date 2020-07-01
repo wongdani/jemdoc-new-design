@@ -1246,6 +1246,14 @@ def inserttitle(f, t):
 
     hb(f.outf, f.conf['doctitleend'], t)
 
+def custom_strftime(format, t):
+    day_endings = {1: '<sup>st</sup>', 2: '<sup>nd</sup>',
+                   3: '<sup>rd</sup>', 21: '<sup>st</sup>',
+                   22: '<sup>nd</sup>', 23: '<sup>rd</sup>', 31: '<sup>st'}
+    return time.strftime(format, t).replace('{TH}', str(t[2]) +
+                                            day_endings.get(t[2],
+                                            '<sup>th</sup>'))
+
 def procfile(f):
   f.linenum = 0
 
@@ -1550,10 +1558,10 @@ def procfile(f):
     out(f.outf, f.conf['footerstart'])
     if showlastupdated:
       if showlastupdatedtime:
-        ts = '%Y-%m-%d %H:%M:%S %Z'
+        ts = '%B {TH} %Y  %I:%M%p (Time Zone: %Z)'
       else:
-        ts = '%Y-%m-%d'
-      s = time.strftime(ts, time.localtime(time.time()))
+        ts = '%B {TH} %Y'
+      s = custom_strftime(ts, time.localtime(time.time()))
       hb(f.outf, f.conf['lastupdated'], s)
     if showsourcelink:
       hb(f.outf, f.conf['sourcelink'], f.inname)
