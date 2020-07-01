@@ -18,7 +18,7 @@ The usage is exactly the same as [`jemdoc`](https://jemdoc.jaboc.net/). Refer [t
 
 ## Usage
 
-Assuming you have already install the 
+Assuming you have already install the  `jemdoc+MathJax`
 
 in `./jemdoc_files/`, we store `.jemdoc` files and `mysite.conf`
 
@@ -31,4 +31,3 @@ jemdoc -c ./jemdoc_files/mysite.conf -o ./www/ ./jemdoc_files/*.jemdoc
 ```
 
 You can also use this for single page generation or all page generation by using `*.jemdoc`.
-
