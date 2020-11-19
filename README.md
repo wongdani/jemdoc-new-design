@@ -27,7 +27,7 @@ in `./www/`, we store the output `.html` / `.css` / `.js` files and website asse
 Suppose you are currently in `./jemdoc_files/`, we use the following to compile
 
 ```
-jemdoc -c mysite.conf -o ../www/  *.jemdoc
+python ../jemdoc -c mysite.conf -o ../www/  *.jemdoc
 ```
 
 You can also use this for single page generation or all page generation by using `*.jemdoc`.
