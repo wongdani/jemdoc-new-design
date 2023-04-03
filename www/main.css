@@ -724,3 +724,11 @@ div#member p{
     max-width: 100%;
   }
 }
+
+a.bibbase.bibtex.link {
+    display: none;
+}
+
+a.bibbase.bibbase_page.link {
+    display: none;
+}

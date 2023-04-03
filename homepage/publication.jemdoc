@@ -2,10 +2,43 @@
 
 = Publications
 
+/The materials presented on this page is to ensure timely dissemination of scholarly and technical work. Copyright and all rights therein are retained by authors or by other copyright holders. All persons copying this information are expected to adhere to the terms and constraints invoked by each author's copyright. In most cases, these works may not be reposted without the explicit permission of the copyright holder./
 
 _Underlined names are students advised by me._    /Italicized names are UCR students./
 
 ~~~
 {}{raw}
-<!--#include virtual="/cgi-bin/bibbase_proxy2.py?bib=https://testing.danielwong.org/publication.bib&theme=dividers&authorFirst=1&fullnames=1&commas=true&noIndex=true" -->
+<!--#include virtual="/cgi-bin/bibbase_proxy2.py?bib=https://testing.danielwong.org/publication.bib&theme=dividers&fullnames=1&commas=true&noIndex=true&nocache&owner=none" -->
 ~~~
+
+
+
+####<!--#include virtual="/cgi-bin/bibbase_proxy2.py?bib=https://testing.danielwong.org/publication.bib&theme=dividers&authorFirst=1&fullnames=1&commas=true&noIndex=true" -->
+
+= Non-Referred Publications 
+
+Joseph Bungo, *Daniel Wong*, Bringing GPU Accelerated Computing and Deep Learning to the Classroom, Journal of Computational Science Education (JOCSE), Volume 12, Issue 2. Presented in Seventh SC Workshop on Best Practices for HPC Training and Education (BPHTE), 2020. 
+
+*Daniel Wong*, S. Lloyd, M. Gokhale, A Memory-mapped Approach to Checkpointing. Technical Report LLNL-TR-635611, Lawrence Livermore National Laboratory (LLNL), Livermore, CA, 2013. 
+
+I. Karlin, A. Bhatele, B. Chamberlain, J. Cohen, Z. Devito, M. Gokhale, R. Haque, R. Hornung, J. Keasler, D. Laney, E. Luke, S. Lloyd, J. McGraw, R. Neely, D. Richards, M. Schulz, C.H. Still, F. Wang, *Daniel Wong*, LULESH Programming Model and Performance Ports Overview. Technical Report LLNL-TR-608824, Lawrence Livermore National Laboratory (LLNL), Livermore, CA, 2012. 
+
+*Daniel Wong*, Murali Annavaram, Scalable System-level Active Low Power Mode with Bounded Latency. Technical Report CENG-2012-5, Department of Electrical Engineering, University of Southern California, Los Angeles (California), 2012. 
+
+*Daniel Wong*, Murali Annavaram, Enhancing Server Energy Efficiency by Shifting Light Burden to an Assistant. 2nd Annual Ming Hsiegh Department of Electrical Engineering Research Festival, 2012. Honorable Mention Poster Award Also presented at Sixth USC-Tsinghua Symposium on Green Technology and Energy Informatics 
+
+*Daniel Wong*, R. Zink and S. Koenig, Teaching Artificial Intelligence and Robotics via Games \[Poster Abstract\], Proceedings of the AAAI Symposium on Educational Advances in Artificial Intelligence (EAAI), 2010 
+
+*Daniel Wong*, M. Gokhale, Real-World Performance of Document-Similarity Web Attack Classifier In Embedded Hardware. LLNL Summer Intern Poster Symposium, 2010. 
+
+John O'Hollaren, Vairavan Laxman, Noah Olsman, Michael Benzimra, *Daniel Wong*, and Nielson Bernardo. SeaBee III. Technical report, University of Southern California Competition Robotics (USCR), University of Southern California, 2010. 
+
+*Daniel Wong*, D. Earl, F. Zyda and S. Koenig. Programming Pinball Machines for Fun and Education. Technical Report 08-901, Department of Computer Science, University of Southern California, Los Angeles (California), 2008. 
+
+= Press 
+
+GPU Computing 101: Why University Educators Are Pulling NVIDIA Teaching Kits into Their Classrooms, Nvidia, [https://blogs.nvidia.com/blog/2019/05/23/nvidia-teaching-kits/], 2019
+
+Interview, Nvidia's Turing Chip Opens Door to New Virtual Reality Realm, ECT News Network, [https://www.ectnews.com/story/85506.html], 2018
+
+*Daniel Wong*, S. Koenig, PinHorse: Teaching Old Pinball Machines New Tricks, [https://www.pinballnews.com/learn/pinhorse/], 2009

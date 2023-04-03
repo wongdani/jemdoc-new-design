@@ -750,3 +750,11 @@ div#sponsor p{
 	margin: 0px;
 	padding: 0px;
 }
+
+a.bibbase.bibtex.link {
+    display: none;
+}
+
+a.bibbase.bibbase_page.link {
+    display: none;
+}
