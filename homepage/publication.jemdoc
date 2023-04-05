@@ -4,11 +4,11 @@
 
 /The materials presented on this page is to ensure timely dissemination of scholarly and technical work. Copyright and all rights therein are retained by authors or by other copyright holders. All persons copying this information are expected to adhere to the terms and constraints invoked by each author's copyright. In most cases, these works may not be reposted without the explicit permission of the copyright holder./
 
-_Underlined names are students advised by me._    /Italicized names are UCR students./
+_Underlined names are students advised by me._    #/Italicized names are UCR students./
 
 ~~~
 {}{raw}
-<!--#include virtual="/cgi-bin/bibbase_proxy2.py?bib=https://testing.danielwong.org/publication.bib&theme=dividers&fullnames=1&commas=true&noIndex=true&nocache&owner=none" -->
+<!--#include virtual="/cgi-bin/bibbase_proxy2.py?bib=https://testing.danielwong.org/publication.bib&theme=dividers&fullnames=1&commas=true&noIndex=true&nocache&owner=none&hidemenu=true" -->
 ~~~
 
 

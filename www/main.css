@@ -80,7 +80,7 @@ div#layout-menu {
 	padding-top: 0px;
 	padding-bottom: 25px;
 	height: calc(100% - 97px);
-	min-width: 280px;
+	min-width: 200px;
 	position: fixed;
 	overflow: scroll;
 	background: #f6f8fa;
@@ -732,3 +732,22 @@ a.bibbase.bibtex.link {
 a.bibbase.bibbase_page.link {
     display: none;
 }
+
+#group_article div.bibbase_group i+span { display: none; }
+          #group_inproceedings div.bibbase_group i+span { display: none; }
+          #group_mastersthesis div.bibbase_group i+span { display: none; }
+          #group_phdthesis div.bibbase_group i+span { display: none; }
+          #group_techreport div.bibbase_group i+span { display: none; }
+          #group_unpublished div.bibbase_group i+span { display: none; }
+          #group_incollection div.bibbase_group i+span { display: none; }
+
+          #group_article div.bibbase_group i:after { content: " Journal Articles" }
+          #group_inproceedings div.bibbase_group i:after { content: " Conference and Workshop Publications" }
+          #group_mastersthesis div.bibbase_group i:after { content: " Master's Thesis" }
+          #group_phdthesis div.bibbase_group i:after { content: " PhD Thesis" }
+          #group_techreport div.bibbase_group i:after { content: " Technical Report" }
+          #group_unpublished div.bibbase_group i:after { content: " Unpublished" }
+          #group_incollection div.bibbase_group i:after { content: " In Collection" }
+
+.bibbase_icon { display: none; }
+

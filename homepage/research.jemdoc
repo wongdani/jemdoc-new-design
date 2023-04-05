@@ -1,0 +1,155 @@
+# jemdoc: menu{MENU}{group.html}
+= Research Group
+
+~~~
+{}{img_left}{images/logo.png}{}{80%}{}{}
+~~~
+
+== Overview
+
+The Systems Optimization and Computer Architecture Lab (SoCal) focuses on a broad range of computer systems-related research, spanning data centers to microarchitecture.
+
+With the emergence of cloud-scale computing and the impeding end of Moore's law, computer systems innovation faces unprecedented obstacles across the entire hardware-software stack. With the slowdown in technology scaling, the onus of future power and performance improvements falls solely on microarchitecture and software innovations to make more efficient use of the hardware. Similarly, at the data center scale, novel innovations are required to make efficient use of commodity hardware in the face of data-intensive workloads, heterogenous hardware, and energy-constrained infrastructures. 
+
+
+
+== Current Members
+{{
+<div id="member-container">
+    <div id="member">
+	<div class="circle-avatar" style="background-image:url(images/socal/DanielWong-centered.png)"></div>
+        <p>
+            <b>Daniel Wong</b></br>
+            Associate Professor
+        </p>
+    </div>
+    <div id="member">
+	<div class="circle-avatar" style="background-image:url(images/socal/marcus.jpg)"></div>
+        <p>
+            <b><a href="https://www.cs.ucr.edu/~mchow009/">Marcus Chow</a></b></br>
+            PhD, Computer Science
+        </p>
+    </div>
+    <div id="member">
+	<div class="circle-avatar" style="background-image:url(images/socal/ali.png)"></div>
+        <p>
+            <b>Ali Jahanshahi</b></br>
+            PhD, Computer Science
+        </p>
+    </div>
+    <div id="member">
+	<div class="circle-avatar" style="background-image:url(images/socal/mohammadreza.jpg)"></div>
+        <p>
+            <b>Mohammadreza Rezvani</b></br>
+            PhD, Computer Science
+        </p>
+    </div>
+    <div id="member">
+	<div class="circle-avatar" style="background-image:url(images/socal/nafis.jpeg)"></div>
+        <p>
+            <b>Nafis Mustakin</b></br>
+            PhD, Computer Science
+        </p>
+    </div>
+    <div id="member">
+	<div class="circle-avatar" style="background-image:url(images/socal/ziyang.jpg)"></div>
+        <p>
+            <b>Ziyang Jia</b></br>
+            PhD, Computer Science
+        </p>
+    </div>
+</div>
+}}
+
+
+== Alumni Members
+=== PhD
+{{
+<div id="member-container">
+    <div id="member">
+	<div class="circle-avatar" style="background-image:url(images/socal/amirali.jpg)"></div>
+        <p>
+            <b><a href="http://www.aabdolrashidi.com/">Dr. Amirali Abdolrashidi</a></b></br>
+            PhD, Computer Science, 2021 </br>
+            Google
+        </p>
+    </div>
+    <div id="member">
+	<div class="circle-avatar" style="background-image:url(images/socal/devashree.jpg)"></div>
+        <p>
+            <b><a href="https://devashreetrip.github.io/">Prof. Devashree Tripathy</a></b></br>
+            PhD, Computer Science, 2021 <br/>
+            Co-advised with Prof. Laxmi Bhuyan <br/>
+            Post-Doc @ Harvard &rarr; Assistant Professor @ IIT Bhubaneswar
+        </p>
+    </div>
+    <div id="member">
+	<div class="circle-avatar" style="background-image:url(images/socal/kiran.jpg)"></div>
+        <p>
+            <b><a href="https://kiran-r.github.io/">Dr. Kiran Ranganath</a></b></br>
+            PhD, Electrical Engineering, 2022</br>
+            SambaNova
+        </p>
+    </div>
+</div>
+}}
+
+=== MS
+- Ruiwen Li, MS CEN, 2016. Last seen: Amazon
+- Yukun Chen, MS EE, 2017.
+- Shahriyar Valielahi Roshan, MS CS, 2018. Last seen: Founder, LucidCo Inc. 
+- Haoxiang Li, MS CEN, 2019. Last seen: Kwest
+- Manjunath Shivashankarappa, MS CEN, 2019. Last seen: Amazon
+- Kaustubh Singh, MS CEN, 2020. Last seen: Qualcomm
+- Songrui He, MS CEN, 2021. 
+- Huy Tran, MS CEN, 2023. 
+
+
+== Group Outings
+{{
+<div class="row">
+  <div class="column">
+    <img src="images/groups/outing/wedding.png" style="width:100%">
+    <img src="images/groups/outing/rocks.png" style="width:100%">
+    <img src="images/groups/outing/falls2.png" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="images/groups/outing/underwater.png" style="width:100%">
+    <img src="images/groups/outing/ocean.png" style="width:100%">
+    <img src="images/groups/outing/wedding.png" style="width:100%">
+    <img src="images/groups/outing/mountainskies.png" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="images/groups/outing/paris.png" style="width:100%">
+    <img src="images/groups/outing/nature.png" style="width:100%">
+    <img src="images/groups/outing/mist.png" style="width:100%">
+    <img src="images/groups/outing/paris.png" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="images/groups/outing/rocks.png" style="width:100%">
+    <img src="images/groups/outing/underwater.png" style="width:100%">
+    <img src="images/groups/outing/ocean.png" style="width:100%">
+  </div>
+</div>
+}}
+
+
+
+== Our work is generously supported by the following sponsors:
+
+{{
+<div id="sponsor-container">
+    <div id="sponsor">
+        <img src="images/UC-Riverside-Vert-WhtBG.png" >
+    </div>
+    <div id="sponsor">
+        <img src="images/California-Energy-Commission.jpg" >
+    </div>
+    <div id="sponsor">
+        <img src="images/nsf-logo.gif" >
+    </div>
+    <div id="sponsor">
+        <img src="images/Nvidia-logo.png" >
+    </div>
+</div>
+}}
