@@ -8,7 +8,7 @@ _Underlined names are students advised by me._    #/Italicized names are UCR stu
 
 ~~~
 {}{raw}
-<!--#include virtual="/cgi-bin/bibbase_proxy2.py?bib=https://testing.danielwong.org/publication.bib&theme=dividers&fullnames=1&commas=true&noIndex=true&nocache&owner=none&hidemenu=true" -->
+<!--#include virtual="/cgi-bin/bibbase_proxy2.py?bib=https://danielwong.org/publication.bib&theme=dividers&fullnames=1&commas=true&noIndex=true&nocache&owner=none&hidemenu=true" -->
 ~~~
 
 
